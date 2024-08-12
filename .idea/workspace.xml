@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06a7c0de-83e3-4a80-8733-76bfb30457f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/ReproducerApp/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/AudioManagerModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/AudioManagerPackage.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/AudioPlayer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/AudioRecorder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/AudioRecorderClient.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/AudioRecorderFacade.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/AudioRecorderInterface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/AudioRecorderService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/AudioVisualizerDrawer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/AudioVisualizerManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/java/com/evernote/neutron/audiomanager/Localized.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/android/src/main/res/drawable/vd_app_small_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/audio-manager.podspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioManager-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioManager.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioManager.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioManager.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioManager.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioPlayer.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioRecorder.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioVisualizerManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioVisualizerManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/ios/AudioVisualizerView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/audio-manager/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ReproducerApp/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ReproducerApp/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/ios/ReproducerApp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ReproducerApp/ios/ReproducerApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/ios/ReproducerApp/PrivacyInfo.xcprivacy" beforeDir="false" afterPath="$PROJECT_DIR$/ReproducerApp/ios/ReproducerApp/PrivacyInfo.xcprivacy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ReproducerApp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ReproducerApp/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReproducerApp/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ReproducerApp/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jmHgoqVxe39NEkouSNDU3C8Goh" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Users/work/Documents/Fab/Progetti/Evernote/RN-0.74.2/ReproducerApp/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06a7c0de-83e3-4a80-8733-76bfb30457f7" name="Changes" comment="" />
+      <created>1721985445135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721985445135</updated>
+      <workItem from="1721985446276" duration="1452000" />
+      <workItem from="1722415905186" duration="18000" />
+      <workItem from="1722424620220" duration="2549000" />
+      <workItem from="1722520874600" duration="1914000" />
+      <workItem from="1722862374539" duration="3341000" />
+      <workItem from="1722867093413" duration="3289000" />
+      <workItem from="1723474041582" duration="3291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

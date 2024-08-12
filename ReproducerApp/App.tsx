@@ -24,6 +24,7 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
+import {MetricName} from 'metrics';
 
 type SectionProps = PropsWithChildren<{
   title: string;
@@ -31,6 +32,8 @@ type SectionProps = PropsWithChildren<{
 
 function Section({children, title}: SectionProps): React.JSX.Element {
   const isDarkMode = useColorScheme() === 'dark';
+  const a = MetricName.AppLaunchTime;
+  console.log(a);
   return (
     <View style={styles.sectionContainer}>
       <Text

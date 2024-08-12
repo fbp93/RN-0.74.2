@@ -23,6 +23,11 @@ target 'ReproducerApp' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
+   pod 'Firebase/Messaging', :modular_headers => true
+    pod 'FirebaseCore', :modular_headers => true # Required by Firebase/Messaging
+    pod 'FirebaseCoreInternal', :modular_headers => true # Required by Firebase/Messaging
+    pod 'GoogleUtilities', :modular_headers => true # Required by Firebase/Messaging
+
   target 'ReproducerAppTests' do
     inherit! :complete
     # Pods for testing
